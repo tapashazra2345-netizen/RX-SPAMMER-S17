@@ -126,7 +126,7 @@ getgenv().Running = false
 
 -- Fixed messages (no editor – these are the preset ones)
 local messages = {
-    "TMX MARE RYXN AND SUMIT PAPA",
+    "TMX MARE RYAN AND SUMIT PAPA",
     "TMX MEH ROAD ROLLER",
     "TMX MARE VIYAY THALAPATHY",
     "TMX MARE WILD GORILA",
