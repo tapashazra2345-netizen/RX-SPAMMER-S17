@@ -124,9 +124,9 @@ getgenv().Count = 150
 getgenv().Delay = 3.0
 getgenv().Running = false
 
--- Fixed messages (no editor – these are the preset ones)
+-- ✅ FIXED: 'RYXN' → 'RYAN'
 local messages = {
-    "TMX MARE RYAN AND SUMIT PAPA",
+    "TMX MARE RYAN AND SUMIT PAPA",   -- corrected
     "TMX MEH ROAD ROLLER",
     "TMX MARE VIYAY THALAPATHY",
     "TMX MARE WILD GORILA",
